@@ -14,6 +14,3 @@ What does not work:
 gcc traversal.c text.c replace.c
 ./a.out string_word
 
-Thank you and I appreciate the help. :)
-Amin Kadawala - 40200998
-
